@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.bixel.finderr.library</groupId>
+  <artifactId>finderr-library</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180701144010</lastUpdated>
+  </versioning>
+</metadata>
